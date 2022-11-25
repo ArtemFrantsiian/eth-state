@@ -1,0 +1,22 @@
+{
+  "name": "state-root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/common": "^3.0.1",
+    "@ethereumjs/rlp": "^4.0.0",
+    "@ethereumjs/statemanager": "^1.0.1",
+    "@ethereumjs/trie": "^5.0.1",
+    "@ethereumjs/tx": "^4.0.1",
+    "@ethereumjs/util": "^8.0.2",
+    "@ethereumjs/vm": "^6.2.0",
+    "@ethersproject/providers": "^5.7.2"
+  }
+}
