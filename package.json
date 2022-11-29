@@ -17,6 +17,7 @@
     "@ethereumjs/tx": "^4.0.1",
     "@ethereumjs/util": "^8.0.2",
     "@ethereumjs/vm": "^6.2.0",
-    "@ethersproject/providers": "^5.7.2"
+    "@ethersproject/providers": "^5.7.2",
+    "keccak256": "^1.0.6"
   }
 }

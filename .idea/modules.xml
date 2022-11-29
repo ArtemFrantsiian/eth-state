@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/state-root.iml" filepath="$PROJECT_DIR$/.idea/state-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../state-root-go/.idea/state-root-go.iml" filepath="$PROJECT_DIR$/../state-root-go/.idea/state-root-go.iml" />
     </modules>
   </component>
 </project>
